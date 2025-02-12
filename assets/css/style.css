@@ -5592,6 +5592,11 @@ Back to Top Style
     .accordion-button:not(.collapsed){
       top: 22px !important;
     }
+    .elementor-video{
+      width: 100% !important;
+      height: 100% !important;
+      padding-bottom: 10px;
+    }
 }
 .accordion-button:not(.collapsed) {
   background-color:white;

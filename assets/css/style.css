@@ -5597,6 +5597,9 @@ Back to Top Style
       height: 100% !important;
       padding-bottom: 10px;
     }
+    .table-responsive iframe{
+      height: 100% !important;
+    }
 }
 .accordion-button:not(.collapsed) {
   background-color:white;
@@ -5666,5 +5669,8 @@ text-align: center;
 #customers th{
 background-color:#99a5b4;
 color: black;
+}
+.table-responsive iframe{
+  height: 600px;
 }
 /* +++++++++++++++++++++++++++++++++++++++++++++ */
